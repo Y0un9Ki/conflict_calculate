@@ -9,6 +9,10 @@ def add(a,b):
   result = a+b
   return result
 
+def multiple(a,b):
+   result=a*b
+   return result
+
 def devide(a,b):
    result=a/b
    return result
