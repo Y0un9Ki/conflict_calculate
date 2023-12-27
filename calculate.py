@@ -13,6 +13,8 @@ def multiple(a,b):
    result=a*b
    return result
 
+## 제곱 계산
+
 def devide(a,b):
    result=a/b
    return result
