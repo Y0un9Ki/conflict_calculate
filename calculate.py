@@ -2,18 +2,20 @@
 
 
 def minus(a,b):
-    result=a-b
-    return result
+   result=a-b
+   return result
 
 def add(a,b):
-  result = a+b
-  return result
+   result = a+b
+   return result
 
 def multiple(a,b):
    result=a*b
    return result
 
-## 제곱 계산
+def average(a,b):
+   result = (a+b)/2
+   return result
 
 def devide(a,b):
    result=a/b
