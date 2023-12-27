@@ -23,4 +23,8 @@ def devide(a,b):
 
 def square(a,b):
    result=a**b
-   return resultss
+   return result
+
+def remainder(a,b):
+   result=a%b
+   return result
