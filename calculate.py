@@ -18,3 +18,7 @@ def multiple(a,b):
 def devide(a,b):
    result=a/b
    return result
+
+def square(a,b):
+   result=a**b
+   return result
